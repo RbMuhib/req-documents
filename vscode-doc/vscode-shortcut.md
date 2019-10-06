@@ -1,3 +1,2 @@
-#Shortcut
-gasfdasf
-asfasf
+# Shortcut for VScode
+hellllllo push git push
